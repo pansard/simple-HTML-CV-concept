@@ -1,0 +1,49 @@
+* {
+    font-family: 'Courier New';
+}
+h1, h3 {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+}
+.div1 {
+    width: 35%;
+    margin-left: 6%;
+    margin-right: auto;
+    float: left;
+   
+}
+.div2 {
+    width: 40%;
+    float: right;
+    margin-left: 20px;
+}
+.pfp {
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.li1 {
+    list-style-type: '🗖';
+    padding-inline-start: 1em;
+}
+.li2 {
+    list-style-type: '🗗';
+    padding-inline-start: 1em;
+}
+ol {
+    list-style-type: upper-roman;
+}
+.sub {
+    width: 100%;
+    text-align: center;
+    float: inline-start;
+    margin-left: auto;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
